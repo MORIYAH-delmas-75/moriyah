@@ -1,0 +1,7 @@
+{
+  "name": "5 (acceuil operationnel100%) moriyah",
+  "description": "A high-end registration portal integrated with Google Sheets and Google Drive, featuring AI-powered profile optimization using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
